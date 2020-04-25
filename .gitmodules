@@ -1,6 +1,0 @@
-[submodule "lib"]
-	path = lib
-	url = https://github.com/Optinomic/lib.git
-[submodule "ch.suedhang.apps.isk"]
-	path = ch.suedhang.apps.isk
-	url = git@github.com:Optinomic/ch.suedhang.apps.isk.git
